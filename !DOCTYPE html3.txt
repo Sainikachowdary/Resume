@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>THE GOD'S OWN COUNTRY</title>
+</head>
+<body>
+<body style="background-color: green"> 
+<h1 style="color:Yellow;">KERALA</h1>
+<p>“Oh Kerala, you are pure magic.”</p>
+<p>1.Kerala is a state on the Malabar Coast of India.</p>
+<p>2.It is spread over an area of approximately 38,863 square kilometers.</p>
+<p>3.It shares its borders with Karnataka, Tamil Nadu, and the Lakshadweep Sea.</p>
+<p>4.Kerala is the 21st largest Indian state by area.</p>
+<p>5.It has an approximate population of 33 million people according to the 2011 census.</p>
+<p>6.Thiruvananthapuram is the capital of Kerala.</p>
+<p>7.The official language of Kerala is Malayalam. It is also the most spoken language in Kerala.</p>
+<p>8.Mr. Pinarayi Vijayan is the chief minister of Kerala.</p>
+<p>9.Some famous places in Kerala are the Periyar wildlife sanctuary, Munnar, Thrissur, Kovalam, and Wayanad.</p>
+<p>10.Mohiniyattam and kathakali are the famous classical dance forms of Kerala.</p>
+<img src="https://s4.scoopwhoop.com/wp-content/uploads/2014/08/3.jpeg"  width="1200"   height="500" >
+<p>For More Information....click on KERALATOURISM</p>
+<a href="https://www.keralatourism.org/">Keralatourism</a>
+<br>
+</body>
+</html>
+
